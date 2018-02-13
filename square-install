@@ -1,0 +1,9 @@
+$ git clone https://github.com/Squarespace/base-template-npm.git
+$ cd base-template-npm
+
+$ npm install
+
+$ npm install -g @squarespace/server
+$ npm start:auth
+
+$ npm run deploy
